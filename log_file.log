@@ -1,0 +1,10 @@
+15-09-2022 22:55
+Название функции: gen
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Результат - <generator object gen at 0x7fca52182660>
+Путь к лог-файлу: /Users/alenanuretdinova/PycharmProjects/pythonProject4
+15-09-2022 22:59
+Название функции: gen
+Аргументы функции - ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Результат - <generator object gen at 0x7f95b1982660>
+Путь к лог-файлу: /Users/alenanuretdinova/PycharmProjects/pythonProject4
